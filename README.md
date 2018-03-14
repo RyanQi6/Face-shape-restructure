@@ -1,2 +1,2 @@
 # Face-shape-restructure
-Face shape restructure from shading images
+Computer Vision: Face shape restructure from shading images
